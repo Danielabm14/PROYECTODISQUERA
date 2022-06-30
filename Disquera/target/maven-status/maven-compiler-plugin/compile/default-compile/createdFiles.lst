@@ -1,0 +1,10 @@
+model\album\albumVo.class
+controller\disqueracontroller.class
+model\artista\artistaDao.class
+model\conexion.class
+model\disquera\disqueraDao.class
+controller\artistacontroller.class
+controller\albumController.class
+model\disquera\disqueraVo.class
+model\artista\artistaVo.class
+model\album\albumDao.class
